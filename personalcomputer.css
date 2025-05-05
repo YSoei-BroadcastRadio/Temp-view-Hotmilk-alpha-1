@@ -1,1 +1,18 @@
+body { mergin: o;
+       padding: 0;
+       font-family: Arial, sans-serif;
+       background-color: #fffffc; }
 
+header { background-color: #180614;
+         color: #fffffc;
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         z-index: 1000;
+         padding: 0;
+         box-sizing: border-box;
+         height: 80px;
+         display: flex;
+         align-items: center;
+         justify-content: center; }
